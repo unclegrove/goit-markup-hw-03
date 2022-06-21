@@ -221,6 +221,7 @@ p {
 .team-list > .item {
     width: calc((100% - 90px) / 4);
     margin-right: 30px;
+    margin-bottom: 94px;
 }
 .team-list .tittle {
     margin-bottom: 10px;
